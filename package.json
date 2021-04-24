@@ -1,0 +1,22 @@
+{
+  "name": "Ziro-Bot",
+  "version": "2.3.0",
+  "description": "The Discord Bot Ziro-Bot",
+  "main": "index.js",
+  "dependencies": {
+    "blueapi.js": "0.0.4",
+    "canvas": "^2.7.0",
+    "discord-messages": "^1.0.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "quickmongo": "^3.0.2",
+    "sourcebin_js": "0.0.3-ignore"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "ZiroCore",
+  "license": "ISC"
+}
