@@ -6,6 +6,8 @@
   "dependencies": {
     "blueapi.js": "0.0.4",
     "canvas": "^2.7.0",
+    "unb-api": "^1.2.3",
+    "tatsu": "^0.2.4",
     "discord-buttons": "^1.0.3-beta",
     "discord-reply": "^0.1.2",
     "discord.js": "^12.5.3",
