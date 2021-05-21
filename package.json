@@ -10,6 +10,7 @@
     "tatsu": "^0.2.4",
     "discord-buttons": "^1.0.3-beta",
     "discord-reply": "^0.1.2",
+    "minecraft-lookup": "^1.1.35",
     "discord.js": "^12.5.3",
     "quickmongo": "^3.0.2",
     "sourcebin_js": "0.0.3-ignore"
